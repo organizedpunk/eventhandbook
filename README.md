@@ -4,7 +4,7 @@ Project aimed to open-source privacy-focused events. So everyone will make a Web
 
 ## Formats
 
-- Meetuo
+- Meetup
 - Summit
 - Congress
 - Hackathon
