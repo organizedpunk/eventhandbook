@@ -13,14 +13,14 @@ Project aimed to open-source privacy-focused events. So everyone will make a Web
 - Online-event
 
 **Meetup**
-[EthCC Occupy](https://web3privacy.info/event/m24bru)
-[EthBerlin c-base meetuo](https://web3privacy.info/event/m24ber)
-[ETHDam c-base Amsterdam](https://web3privacy.info/event/m24ams)
-[ETHBucharest](https://web3privacy.info/event/m24buc)
+- [EthCC Occupy](https://web3privacy.info/event/m24bru)
+- [EthBerlin c-base meetuo](https://web3privacy.info/event/m24ber)
+- [ETHDam c-base Amsterdam](https://web3privacy.info/event/m24ams)
+- [ETHBucharest](https://web3privacy.info/event/m24buc)
 
 **Summit**
-[Prague Sumnmit 01, 2023](http://prague22.web3privacy.info)
-[Prague Sumnmit 02, 2024](https://summit.web3privacy.info)
+- [Prague Sumnmit 01, 2023](http://prague22.web3privacy.info)
+- [Prague Sumnmit 02, 2024](https://summit.web3privacy.info)
 
 **Privacy corner**
 [ETHBerlin experience](https://c24ber.web3privacy.info)
@@ -38,6 +38,6 @@ Project aimed to open-source privacy-focused events. So everyone will make a Web
 
 ## Useful links
 
-[branding](https://github.com/web3privacy/brand/tree/main)
-[event web](http://web3privacy.info/events/)
-[Lu.ma](http://lu.ma/web3privacy)
+- [branding](https://github.com/web3privacy/brand/tree/main)
+- [event web](http://web3privacy.info/events/)
+- [Lu.ma](http://lu.ma/web3privacy)
