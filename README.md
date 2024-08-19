@@ -57,11 +57,13 @@
 - Speakers (form): Tally ([example](https://tally.so/r/nrOzXl))
 - Volunteers (form): Tally ([example](https://tally.so/r/3lLqKo))
 - Web: github ([congress template](https://github.com/web3privacy/c24bkk))
+- RSVP: [Lu.ma](http://lu.ma/web3privacy)
 
  ## Case studies
  [ETHRome Community 1st meetup example](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)
 
  ## Rituals
+ Explore available [rituals](https://github.com/web3privacy/eventhandbook/blob/main/Rituals/Readme.md)
 
  [EthCC Occupy meetup example](https://hackmd.io/Y82W7109RgqcXmwbori5hg?view#How-would-it-work)
 
